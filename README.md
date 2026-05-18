@@ -103,6 +103,9 @@ La aplicación fue desplegada en Railway utilizando:
 ### 🔐 Variables de entorno
 ![Railway Variables](docs/railway-variables.PNG)
 
+
+### APP DESPLEGADA
+![App desplegada en Railway](docs/app_desplegada.PNG)
 ---
 
 ## 🌍 URL pública
